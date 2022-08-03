@@ -1,0 +1,81 @@
+Nome do funcionario: Carlos Freitas                             Cargo: administrador
+Descricao			Referencia			Vencimentos				Descontos
+Salario Bruto							R$ 5700.00
+Salario Familia			-				-
+INSS				11%									R$ 627.00
+IRRF				27%									R$ 1539.00
+										Total de descontos	R$ 2166.00
+										Salario Liquido		R$ 3534.00
+--------------------------------------------------------------------------------------------------------------------------------
+Nome do funcionario: Francisco Almeita Santos                   Cargo: assessor
+Descricao			Referencia			Vencimentos				Descontos
+Salario Bruto							R$ 11450.00
+Salario Familia			-				-
+INSS				11%									R$ 1259.50
+IRRF				27%									R$ 3091.50
+										Total de descontos	R$ 4351.00
+										Salario Liquido		R$ 7099.00
+--------------------------------------------------------------------------------------------------------------------------------
+Nome do funcionario: Priscila Zorzan Fereira                    Cargo: secretaria
+Descricao			Referencia			Vencimentos				Descontos
+Salario Bruto							R$ 3800.00
+Salario Familia			-				-
+INSS				11%									R$ 418.00
+IRRF				22%									R$ 836.00
+										Total de descontos	R$ 1254.00
+										Salario Liquido		R$ 2546.00
+--------------------------------------------------------------------------------------------------------------------------------
+Nome do funcionario: Paulo Viera                                Cargo: manobrista
+Descricao			Referencia			Vencimentos				Descontos
+Salario Bruto							R$ 1200.00
+Salario Familia			2				R$ 58.32
+INSS				8%									R$ 96.00
+IRRF				-									-
+										Total de descontos	R$ 96.00
+										Salario Liquido		R$ 1162.32
+--------------------------------------------------------------------------------------------------------------------------------
+Nome do funcionario: Katia Abreu Soarez                         Cargo: engenheira civil
+Descricao			Referencia			Vencimentos				Descontos
+Salario Bruto							R$ 7800.00
+Salario Familia			-				-
+INSS				11%									R$ 858.00
+IRRF				27%									R$ 2106.00
+										Total de descontos	R$ 2964.00
+										Salario Liquido		R$ 4836.00
+--------------------------------------------------------------------------------------------------------------------------------
+Nome do funcionario: Ruti Santos Pereira                        Cargo: copeira
+Descricao			Referencia			Vencimentos				Descontos
+Salario Bruto							R$ 1070.00
+Salario Familia			3				R$ 87.48
+INSS				8%									R$ 85.60
+IRRF				-									-
+										Total de descontos	R$ 85.60
+										Salario Liquido		R$ 1071.88
+--------------------------------------------------------------------------------------------------------------------------------
+Nome do funcionario: Joao dos Marquete                          Cargo: porteiro
+Descricao			Referencia			Vencimentos				Descontos
+Salario Bruto							R$ 1070.00
+Salario Familia			2				R$ 58.32
+INSS				8%									R$ 85.60
+IRRF				-									-
+										Total de descontos	R$ 85.60
+										Salario Liquido		R$ 1042.72
+--------------------------------------------------------------------------------------------------------------------------------
+Nome do funcionario: Manuela Leidbon                            Cargo: assistente do diretor
+Descricao			Referencia			Vencimentos				Descontos
+Salario Bruto							R$ 4500.00
+Salario Familia			-				-
+INSS				11%									R$ 495.00
+IRRF				22%									R$ 990.00
+										Total de descontos	R$ 1485.00
+										Salario Liquido		R$ 3015.00
+--------------------------------------------------------------------------------------------------------------------------------
+Nome do funcionario: Alberto Henrique Proswov                   Cargo: diretor
+Descricao			Referencia			Vencimentos				Descontos
+Salario Bruto							R$ 15900.00
+Salario Familia			-				-
+INSS				11%									R$ 1749.00
+IRRF				27%									R$ 4293.00
+										Total de descontos	R$ 6042.00
+										Salario Liquido		R$ 9858.00
+--------------------------------------------------------------------------------------------------------------------------------

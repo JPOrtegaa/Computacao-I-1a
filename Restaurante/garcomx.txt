@@ -1,0 +1,6 @@
+1 - Garcom = JOAO DA SILVA
+    Vendas = 211.90
+
+2 - Garcom = LUIZ
+    Vendas = 53.00
+

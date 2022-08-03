@@ -1,0 +1,35 @@
+1 - Nome = REFRI
+    Quantidade = 6
+    Preco = 2.50
+    Total = 15.00
+
+2 - Nome = CERVEJA
+    Quantidade = 16
+    Preco = 3.20
+    Total = 51.20
+
+3 - Nome = BATATA
+    Quantidade = 2
+    Preco = 18.30
+    Total = 36.60
+
+4 - Nome = AGUA
+    Quantidade = 9
+    Preco = 1.50
+    Total = 13.50
+
+5 - Nome = QUEIJO
+    Quantidade = 3
+    Preco = 17.50
+    Total = 52.50
+
+6 - Nome = DOCE
+    Quantidade = 3
+    Preco = 4.50
+    Total = 13.50
+
+7 - Nome = VINHO
+    Quantidade = 2
+    Preco = 41.30
+    Total = 82.60
+

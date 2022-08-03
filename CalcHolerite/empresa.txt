@@ -1,0 +1,45 @@
+Carlos Freitas
+administrador
+23/10/65
+0
+5700.00
+Francisco Almeita Santos
+assessor
+12/07/78
+2
+11450.00
+Priscila Zorzan Fereira
+secretaria
+15/12/85
+0
+3800.00
+Paulo Viera
+manobrista
+23/06/75
+2
+1200.00
+Katia Abreu Soarez
+engenheira civil
+09/05/77
+1
+7800.00
+Ruti Santos Pereira
+copeira
+12/09/70
+3
+1070.00
+Joao dos Marquete
+porteiro
+17/12/1975
+2
+1070.00
+Manuela Leidbon
+assistente do diretor
+24/02/1977
+2
+4500.00
+Alberto Henrique Proswov
+diretor
+01/10/1967
+2
+15900.00
